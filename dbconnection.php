@@ -2,10 +2,10 @@
 <?php
  
 
-$server='localhost:3307';
-$username='root';
-$password='password';
-$database="login_form";
+$server='sql12.freemysqlhosting.net';
+$username='sql12352003';
+$password='2TzIPzeVUj';
+$database="sql12352003";
 
 $connection=mysqli_connect($server, $username,$password ,$database );
 
